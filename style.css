@@ -1,0 +1,29 @@
+.flex-container {
+  width: 925px;
+  height: 516px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  padding: 10px;
+  background-color: rgb(255, 255, 255);
+  border: 5px solid black;
+  margin: 10px;
+}
+
+.flex-element {
+  color: white;
+  padding: 30px;
+  margin: 1px;
+  background: rgb(5, 112, 126);
+  height: 196px;
+  width: 140px;
+}
+
+.flex-element-2 {
+  color: rgb(255, 255, 255);
+  margin: 1px;
+  background: rgb(5, 112, 126);
+  width: 140px;
+  height: 140px;
+  padding: 15px;
+}
